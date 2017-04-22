@@ -1,0 +1,13 @@
+
+
+body{
+    background: #00334b;
+    color: #fff;
+}
+
+.container{
+    max-width: 700px;
+    margin:0 auto;
+    position: relative;
+    padding:0 10px;
+}
